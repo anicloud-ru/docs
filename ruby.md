@@ -1,5 +1,5 @@
 ```
-apt install libreadline-dev libssl-dev libgdbm-dev zlib1g-dev
+apt install libreadline-dev libssl-dev libgdbm-dev zlib1g-dev libsass-dev libffi-dev
 wget https://cache.ruby-lang.org/pub/ruby/3.0/ruby-3.0.1.tar.gz
 tar -xzf ruby-3.0.1.tar.gz
 cd ruby-3.0.1
